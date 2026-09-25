@@ -1,2 +1,1 @@
-# Simorgh
-Simorgh Game
+# 🕊 بازی سیمرغ
